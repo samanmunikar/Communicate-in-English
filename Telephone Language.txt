@@ -1,0 +1,39 @@
+Telephone Language:
+
+Introducton:
+Phone Conversation with New Person
+- Name
+- Your position/title/role
+- Purpose of call
+
+Hello, this is Saman Munikar. I work at Cotiviti Inc and I'm calling about my delivery.
+Good morning, My name is Saman Munikar with Cotiviti Inc. I heard you presentation at the conference and would like to discuss it with you.
+Hello, this is Saman Munikar from Dr. Brown's office. I'm calling to confirm your appointment.
+
+Request:
+Could you please confirm the delivery date?
+COuld you give me more information about this?
+Do you have a minute to review this?
+Would you mind going over this with me?
+
+Responds:
+Yes:
+Yes, I'd be happy to.
+Certainly, what would you like to know.
+Of course.
+Not at all.
+
+NO:
+I'm sorry. I'm unable to confirm at this time.I'll get back with you as soon as I can.
+Unfortunately, I'm not able to at this time. Could I call you back?
+Sorry, I'm busy right now but will be happy to call you back.
+
+Clarify:
+I'm sorry. I missed that. What did you just say?		Response: Oh, let me explain.
+Excuse me. I didn't catch what you just said. Could you say it again?		Response: I'd be happy to .....
+Sorry. I'm not sure I understand. What does that mean? 	Response: Certainly, what I mean is ...
+
+Close a conversation:
+Thank you so much. I look forward to speaking with you again. Goodbye.
+It's been great talking to you. Thank you.Good bye.
+I've enjoyed this conversation and hope we'll talk again soon. Goodbye.

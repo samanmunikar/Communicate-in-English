@@ -6,7 +6,44 @@ remember rthyme
 	stress content words
 	soft, short structure words
 
+
+Video Conference:
+Agree:
+Yes, I agree.
+It looks good to me.
+I definitely agree.
+
+Disagree:
+I'm afraid, I don't agree.
+I'm sorry, but I dont't agree.
+Actually, I disagree.
+Actually, I have a different idea.
+That's possible, but I'd prefer something different.
+
+Clarify:
+Excuse me, I didn't hear that. Could you say it again?
+Sorry, I missed what you said. Could you repeat that please? 
+
+Interrupt politely:
+Excuse me. Can I say something here?
+Could I interrupt you for a minute?
+Sorry to interrupt, but I'd like to say something here.
+
+Asking Opinion:
+So, what do you think about this?
+Can you give me your thoughts on this?
+What's your opinion?
 	
+Connection Issues Problem:
+Excuse me, Can you hear us?
+Excuse me, are we still connected?
+Is there a problem with your connections?
+
+Leave Meeting suddenly:
+I have to leave now for another appointment. I'm sorry.
+I'm very sorry. I'll have to continue this discussion at a later date.
+Excuse me, something importhing important has come up and I have to leave. I'll be in touch very soon.
+
 Group Discussion:
 To agree/Disagree:
 	Yes, I agree.
