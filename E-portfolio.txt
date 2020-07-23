@@ -1,0 +1,123 @@
+Effective Headline
+Job Title = Software Engineer
+Action Verb = Developing
+Obeject of Action Verb = Database Software
+Purpose of action = To make myself happy 
+
+Saman Munikar
+Software Engineer
+Developing and Maintaining Database Software
+Researching data processing problems
+to make myself happy
+
+
+Summary of Capabilities:
+Introduction to you = I am a Software Engineer with 3 years of experience, and I am seeking for new opportunities in the field. I am a hard working and dedicated professional.
+Your Accomplishment = First, I migrated and optimised the data processing from Postgres to Oracle for Rowdmap in Cotiviti in 2019. Additionally, I worked on building a Summary report using Angular and Java Rest API. Finally, I build a data transfer component to trasfer data accross two databases. 
+Your Skills = I am skilled in Programming, Database, and Data Analysis.
+
+Caption:
+Here is/ This is.
+Here are / These are my works that I created for JBG Entertainment Group in Chicago in 2019.
+
+
+Resume:
+1. Education Section:
+	Your degree(s):  Bachelor's Degree in Engineering.
+	Your School Name: Tribhuvan University, Institute of Engineering, Pulchowk Campus, Lalitpur, Nepal
+	Duration of program: (September 2013 - October 2017)
+	
+2. Work Experience Section:
+	Job titles: 
+	Organization of employment
+	Duration of employment
+	Detailed list of tasks
+	for example:
+	Cotitivi Inc.
+	Software Engineer II (June 2018 - Present)
+	
+Compliments: Use genearal compliments/adjectives. Not specific.
+	Amazing, Awesome, Impressive, Great, Excellent
+Request: Could you / Would you
+Showing Appreciation : Could you look at my work and let me know what you think? I would greatly appreciate your feedback.
+
+Vocabulary:
+Verbs for some change: changed or modified
+
+Verbs for big changes: overhauled, reorganized, restructured, revamped or redesigned
+
+Verbs for new changes: updated or upgraded
+
+Verbs for finding problems: identified/diagnosed/detected problems
+
+Verbs for creating solutions: solved/resolved/reconciled problems or recommended solutions
+
+Adjectives to Describe Projects
+
+comprehensive
+
+effective
+
+exhaustive
+
+extensive
+
+significant
+
+strategic
+
+Adjectives to Describe Presentations
+
+interesting
+
+compelling
+
+engaging
+
+motivational
+
+educational
+
+organized
+
+Adjectives to Describe Papers
+
+interesting
+
+organized
+
+well-researched
+
+well-written
+
+Adjectives to Describe Experiments
+
+detailed
+
+exhaustive
+
+extensive
+
+preliminary
+
+promising
+
+sophisticated
+
+systematic
+
+Adjectives to Describe Videos
+
+action-packed
+
+animated
+
+compelling
+
+engaging
+
+fast-paced
+
+interesting
+
+motivational
